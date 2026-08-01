@@ -6,3 +6,5 @@ Mock URL shortener algorithm in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `shortener.py`
+
+*Initialized by wlakernotalnanathan workspace automation.*
